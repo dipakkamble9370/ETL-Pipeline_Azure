@@ -1,0 +1,9 @@
+{
+	"name": "dipakkadf1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9ae216f0-b779-412e-bc4a-c33d25071e80",
+		"tenantId": "9b8f2f6e-b064-4116-a7fa-655f42393c94"
+	}
+}
